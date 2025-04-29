@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import css from './App.module.css';
 import ContactForm from './components/ContactForm/ContactForm';
 import SearchBox from './components/SearchBox/SearchBox';
-import ContactList from './components/ContactsList/ContactsList';
+import ContactList from './components/ContactList/ContactList';
 
 import userData from './userData.json';
 export default function App() {
